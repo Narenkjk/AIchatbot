@@ -1,4 +1,4 @@
-# chatbot
+# AIchatbot
 Chatbot using python and flask 
  Notes:- 
 - **This is just basic chatbot, you can improve chatbot learning.
